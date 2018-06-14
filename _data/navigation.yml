@@ -5,13 +5,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /_posts
+    url: /posts
   - title: "Docs"
     url: /docs
 
 
 # documentation links
-sidebar:
+quicklinks:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
