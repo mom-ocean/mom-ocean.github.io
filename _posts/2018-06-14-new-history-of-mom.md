@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Updayed history of MOM !"
+title:  "Updated history of MOM"
 date:  Thu Jun 14 14:47:51 AEST 2018 
 categories: update history
 ---
