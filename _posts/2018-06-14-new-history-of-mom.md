@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Updated history of MOM"
-date:  Thu Jun 14 14:47:51 AEST 2018 
-categories: update history
+category: posts
+tags: 
+    - update 
+    - history
 ---
 
-An updated version of a historical introduction to MOM is now available.
+An updated version of a [historical introduction to MOM]({{ site.url }}{{ site.baseurl }}/assets/pdfs/mom_history_2017.09.19.pdf) is now available.
