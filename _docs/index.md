@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /posts/
+permalink: /docs/
 author_profile: true
 toc: true
 sidebar:
