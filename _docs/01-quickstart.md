@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Quick-Start Guide"
 permalink: /docs/quick-start-guide/
 excerpt: "Brief instructions for running MOM5 experiments"
