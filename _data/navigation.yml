@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /_posts
+  - title: "Docs"
+    url: /docs
+
+
+# documentation links
+sidebar:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Task tracking"
+        url: https://github.com/mom-ocean/MOM5/issues
+  - title: Open Development
+    children:
+      - title: "All MOM code is available on Github"
+        url: https://github.com/mom-ocean/MOM5/issues
