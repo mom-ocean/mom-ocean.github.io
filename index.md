@@ -5,7 +5,7 @@ toc: true
 sidebar:
     nav: "quicklinks"
 image:
-    feature: water.jpg
+    feature: /assets/images/water.jpg
 ---
 
 ## The Modular Ocean Model (MOM)
