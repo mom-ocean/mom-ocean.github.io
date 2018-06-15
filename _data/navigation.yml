@@ -8,6 +8,8 @@ main:
     url: /posts
   - title: "Docs"
     url: /docs
+  - title: "Contribute"
+    url: /contribute
 
 
 # documentation links
@@ -22,3 +24,11 @@ quicklinks:
     children:
       - title: "All MOM code is available on Github"
         url: https://github.com/mom-ocean/MOM5/issues
+  - title: Partner Organisations
+    children:
+      - title: "GFDL"
+        url: https://www.gfdl.noaa.gov/ocean-model/
+      - title: "COSIMA"
+        url: http://cosima.org.au
+      - title: "CSIRO"
+        url: https://www.csiro.au/en/Research/Environment/Oceans-and-coasts

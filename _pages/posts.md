@@ -1,6 +1,7 @@
 ---
-layout: home
-permalink: /docs/
+title: "Posts"
+permalink: /posts/
+layout: posts
 author_profile: true
 toc: true
 sidebar:

@@ -1,4 +1,5 @@
 ---
+permalink: /               # This defines this as the root page
 layout: home
 author_profile: false
 toc: true
