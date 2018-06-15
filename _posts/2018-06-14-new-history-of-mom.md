@@ -3,7 +3,7 @@ title:  "Updated history of MOM"
 author: 
     name: Stephen Griffies
 category: posts
-type: posts
+type: single
 toc: true
 tags: 
     - update 

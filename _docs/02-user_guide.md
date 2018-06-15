@@ -1,9 +1,13 @@
+---
+layout: single
+permalink: /docs/userguide/
+author_profile: true
+toc: true
+author:
+     name: Niki Zadeh and Stephen Griffies 
+     email: Stephen.Griffies@noaa.gov
+---
 # The MOM User Guide
-
-Authors:
-
-* Stephen Griffies - Stephen.Griffies@noaa.gov
-* Niki Zadeh - Niki.Zadeh@noaa.gov
 
 ## Introduction
 

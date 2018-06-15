@@ -18,6 +18,8 @@ quicklinks:
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
+      - title: "User Guide"
+        url: /docs/userguide/
       - title: "Task tracking"
         url: https://github.com/mom-ocean/MOM5/issues
   - title: Open Development

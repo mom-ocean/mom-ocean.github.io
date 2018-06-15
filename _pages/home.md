@@ -1,15 +1,22 @@
 ---
 permalink: /               # This defines this as the root page
-layout: home
+layout: single
 author_profile: false
-toc: true
+toc: false
 sidebar:
     nav: "quicklinks"
-image:
-    feature: /assets/images/water.jpg
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/water.jpg
+  caption: "Photo credit: unknown"
+title: "MOM5"
+excerpt: "Modular Ocean Model"
+
 ---
 
-## The Modular Ocean Model (MOM)
-MOM is a numerical ocean model based on the hydrostatic primitive equations. MOM development is led by scientists at [NOAA/GFDL](http://www.gfdl.noaa.gov/ocean-model) in collaboration with scientists worldwide. Version 5 of MOM (MOM5) is an open source project released under the GPL license.
+MOM is a numerical ocean model based on the hydrostatic primitive equations. 
 
-The MOM5 ocean model is community supported and widely used in active research.
+Development is led by scientists at [NOAA/GFDL](http://www.gfdl.noaa.gov/ocean-model) in collaboration with scientists worldwide. 
+
+Version 5 of MOM (MOM5) is an open source project released under the GPL license.
