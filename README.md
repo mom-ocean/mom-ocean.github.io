@@ -23,3 +23,55 @@ To push your changes back to the github repo
 git commit -a -m "Commit message"
 git push origin master
 ```
+
+# Layout
+
+The site layout is pretty simple:
+
+```
+|-- README.md
+|-- _config.yml
+|-- _data
+|   `-- navigation.yml
+|-- _docs
+|   |-- 01-quickstart.md
+|   `-- 02-user_guide.md
+|-- _pages
+|   |-- contribute.md
+|   |-- docs.md
+|   |-- home.md
+|   `-- posts.md
+|-- _posts
+|   |-- 2015-11-28-stunning-so-viz.md
+|   `-- 2018-06-14-new-history-of-mom.md
+`-- assets
+    |-- images
+    |   `-- water.jpg
+    `-- pdfs
+        |-- Cox_1984_GFDL_Tech_Report_1.pdf
+        |-- MOM1_READ_ME.pdf
+        |-- MOM1_manual.pdf
+        |-- MOM2_manual.pdf
+        |-- MOM3_manual.pdf
+        |-- MOM4_manual.pdf
+        |-- MOM4p1_manual.pdf
+        |-- MOM5_elements.pdf
+        |-- MOM5_manual.pdf
+        |-- mom_history_2017.09.19.pdf
+        |-- mom_history_v15.09.05.pdf
+        |-- testcase_ICCM.pdf
+        |-- testcase_atl_regional.pdf
+        |-- testcase_baltic.pdf
+        |-- testcase_ocean_cpld.pdf
+        `-- testcase_ocean_solo.pdf
+```
+
+All static stuff like images and pdfs go in the `assets` folder.
+
+All top level pages (`home`, `docs`, `posts` and `contribute`) live in the `_pages` directory. 
+
+Any new posts is just a new markdown file in the `_posts` directory with the date in the filename.
+
+Documentation for how to use this theme and customise it is available here:
+
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
