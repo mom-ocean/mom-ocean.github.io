@@ -26,7 +26,7 @@ quicklinks:
     children:
       - title: "All MOM code is available on Github"
         url: https://github.com/mom-ocean/MOM5/issues
-  - title: Partner Organisations
+  - title: Partner Organisations/Projects
     children:
       - title: "GFDL"
         url: https://www.gfdl.noaa.gov/ocean-model/
