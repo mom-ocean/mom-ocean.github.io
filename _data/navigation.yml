@@ -30,6 +30,8 @@ quicklinks:
     children:
       - title: "GFDL"
         url: https://www.gfdl.noaa.gov/ocean-model/
+      - title: "MOM6"
+        url: https://github.com/NOAA-GFDL/MOM6
       - title: "COSIMA"
         url: http://cosima.org.au
       - title: "CSIRO"
