@@ -26,7 +26,7 @@ git push origin master
 
 # Layout
 
-The site layout is pretty simple:
+The site layout is rather simple:
 
 ```
 |-- README.md
@@ -66,11 +66,11 @@ The site layout is pretty simple:
         `-- testcase_ocean_solo.pdf
 ```
 
-All static stuff like images and pdfs go in the `assets` folder.
+All static material like images and pdfs go in the `assets` folder.
 
 All top level pages (`home`, `docs`, `posts` and `contribute`) live in the `_pages` directory. 
 
-Any new posts is just a new markdown file in the `_posts` directory with the date in the filename.
+New posts produce a new markdown file in the `_posts` directory with the date in the filename.
 
 Documentation for how to use this theme and customise it is available here:
 
