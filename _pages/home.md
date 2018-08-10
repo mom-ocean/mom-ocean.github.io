@@ -7,7 +7,6 @@ sidebar:
     nav: "quicklinks"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/Southern_Ocean_waves.jpg
   caption: "Photo credit: Stephen M. Griffies"
 title: "MOM5"
