@@ -25,7 +25,7 @@ quicklinks:
   - title: Open Development
     children:
       - title: "All MOM code is available on Github"
-        url: https://github.com/mom-ocean/MOM5/issues
+        url: https://github.com/mom-ocean/MOM5
   - title: Partner Organisations/Projects
     children:
       - title: "GFDL"
