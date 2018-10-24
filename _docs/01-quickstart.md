@@ -10,7 +10,7 @@ Author: Niki Zadeh (Niki.Zadeh@@noaa.gov)
 
 ##  Where to start?
    
-A good place to start is the online [User Guide](http://www.mom-ocean.org/web/docs/project/user_guide), which gives full details on all the steps involved in running a complete experiment.
+A good place to start is the online [User Guide](https://mom-ocean.github.io/docs/userguide/), which gives full details on all the steps involved in running a complete experiment.
 
 This document gives a short outline of how to get a very basic example experiment running.
    
