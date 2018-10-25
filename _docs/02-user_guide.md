@@ -54,7 +54,7 @@ The purpose of this section is to outline certain features of MOM.
 
 In addition to this online user guide, documentation for MOM is provided by the following LaTeX generated PDF documents:
        
-* [A Technical Guide to MOM4](http://www.mom-ocean.org/web/docs/project/MOM4_guide.pdf) by Stephen.Griffies@noaa.gov, Matthew.Harrison@noaa.gov, Ronald.Pacanowski@noaa.gov, and Tony.Rosati@noaa.gov. This is the primary reference for MOM4p0. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p0 in the literature should refer to this document:
+* [A Technical Guide to MOM4](/assets/pdfs/MOM4_manual.pdf) by Stephen.Griffies@noaa.gov, Matthew.Harrison@noaa.gov, Ronald.Pacanowski@noaa.gov, and Tony.Rosati@noaa.gov. This is the primary reference for MOM4p0. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p0 in the literature should refer to this document:
 
        
         A Technical Guide to MOM4
@@ -62,10 +62,21 @@ In addition to this online user guide, documentation for MOM is provided by the 
         S.M. Griffies, M.J. Harrison, R.C. Pacanowski, and A. Rosati
         NOAA/Geophysical Fluid Dynamics Laboratory
         August 2004
-        Available on-line at http://www.mom-ocean.org/web/docs
+        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
 
        
-* [Elements of MOM](http://www.mom-ocean.org/web/docs/project/MOM5_elements.pdf) by Stephen.Griffies@noaa.gov is the primary reference for MOM4p1 and MOM5. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM in the literature should refer to this document:
+       * [Elements of mom4p1](/assets/pdfs/MOM4p1_manual.pdf) by Stephen.Griffies@noaa.gov. This is the primary reference for MOM4p1. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p1 in the literature should refer to this document:
+
+       
+        Elements of mom4p1
+        GFDL Ocean Group Technical Report No. 6
+        S.M. Griffies
+        NOAA/Geophysical Fluid Dynamics Laboratory
+        August 2007
+        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
+
+
+* [Elements of MOM](/assets/pdfs/MOM5_manual.pdf) by Stephen.Griffies@noaa.gov is the primary reference for MOM5. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM5 in the literature should refer to this document:
 
        
         Elements of the Modular Ocean Model (MOM)
@@ -74,7 +85,7 @@ In addition to this online user guide, documentation for MOM is provided by the 
         NOAA/Geophysical Fluid Dynamics Laboratory
         June 2012
         620 + xiii pages 
-        Available on-line at http://www.mom-ocean.org/web/docs
+        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
        
        
 A theoretical rationalization of ocean climate models is provided by [Fundamentals of Ocean Climate Models](http://www.amazon.com/Fundamentals-Climate-Models-Stephen-Griffies/dp/0691118922). This book by Stephen.Griffies@noaa.gov was published by Princeton University Press in August 2004.
@@ -85,7 +96,7 @@ The documentation of most Fortran modules in FMS is inserted right in the source
    
 ### MOM5 Characteristics
    
-Although MOM5 shares much in common with earlier versions of MOM, it possesses a number of computational, numerical, and physical characteristics that are noteworthy. The main characteristics of MOM5 can be found in the introduction to [Elements of MOM](http://www.mom-ocean.org/web/docs/project/MOM5_elements.pdf).
+Although MOM5 shares much in common with earlier versions of MOM, it possesses a number of computational, numerical, and physical characteristics that are noteworthy. The main characteristics of MOM5 can be found in the introduction to [Elements of MOM](/assets/pdfs/MOM5_manual.pdf).
 
 ### MOM and FMS
    
@@ -115,15 +126,13 @@ You should have received a copy of the GNU General Public License along with MOM
    
 ### MOM test cases
    
-MOM is distributed with a suite of test cases, with these tests detailed in [Elements of MOM](http://www.mom-ocean.org/web/docs/project/MOM5_elements.pdf).
+MOM is distributed with a suite of test cases, with these tests detailed in [Elements of MOM](/assets/pdfs/MOM5_manual.pdf).
 
 Many of the test cases are NOT sanctioned for their physical relevance. They are instead provided for the user to learn how to run MOM, and to verify the numerical and/or computational integrity of the code. PLEASE do not assume that the experiments will run for more than the short time selected in the sample runscripts.
    
 ## Contributing to MOM
    
-MOM developers aim to provide the international climate research community with a repository for robust and well documented methods to simulate the ocean climate system.  Consequently, we encourage interested researchers to contribute to MOM by commenting on code features, and providing new modules that enhance simulation integrity (e.g., a new physical parameterization or new advection scheme) or increase the model's functionality.
-
-The [Model Development Lab](http://www.mom-ocean.org) (MDL) provides infrastructure to facilitate contributions from the MOM community.
+MOM developers aim to provide the international climate research community with a repository for robust and well documented methods to simulate the ocean climate system.  Consequently, we encourage interested researchers to contribute to MOM by commenting on code features, and providing new modules that enhance simulation integrity (e.g., a new physical parameterization or new advection scheme) or increase the model's functionality.  All of this interaction with MOM5 development is facilitated by the [MOM5 Github repo](https://github.com/mom-ocean). 
    
 ## Source code and data sets
 
@@ -131,7 +140,7 @@ The purpose of this section is to outline methods required to obtain the source 
 
 ### Obtaining source code and data sets
    
-The source code and test case data sets for MOM are hosted on [github](https://github.com/BreakawayLabs/mom). Follow [these instructions](http://www.mom-ocean.org/web/downloads) to download the code and (optionally) the test case data sets.
+The source code and test case data sets for MOM are available via the [MOM5 Github repo](https://github.com/mom-ocean). 
 
 ### Description of the data sets
 
