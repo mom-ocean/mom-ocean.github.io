@@ -62,7 +62,7 @@ In addition to this online user guide, documentation for MOM is provided by the 
         S.M. Griffies, M.J. Harrison, R.C. Pacanowski, and A. Rosati
         NOAA/Geophysical Fluid Dynamics Laboratory
         August 2004
-        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
+        Available on-line at https://mom-ocean.github.io
 
        
        * [Elements of mom4p1](/assets/pdfs/MOM4p1_manual.pdf) by Stephen.Griffies@noaa.gov. This is the primary reference for MOM4p1. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p1 in the literature should refer to this document:
@@ -73,7 +73,7 @@ In addition to this online user guide, documentation for MOM is provided by the 
         S.M. Griffies
         NOAA/Geophysical Fluid Dynamics Laboratory
         August 2007
-        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
+        Available on-line at https://mom-ocean.github.io
 
 
 * [Elements of MOM](/assets/pdfs/MOM5_manual.pdf) by Stephen.Griffies@noaa.gov is the primary reference for MOM5. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM5 in the literature should refer to this document:
@@ -85,7 +85,7 @@ In addition to this online user guide, documentation for MOM is provided by the 
         NOAA/Geophysical Fluid Dynamics Laboratory
         June 2012
         620 + xiii pages 
-        Available on-line at https://github.com/mom-ocean/mom-ocean.github.io
+        Available on-line at https://mom-ocean.github.io
        
        
 A theoretical rationalization of ocean climate models is provided by [Fundamentals of Ocean Climate Models](http://www.amazon.com/Fundamentals-Climate-Models-Stephen-Griffies/dp/0691118922). This book by Stephen.Griffies@noaa.gov was published by Princeton University Press in August 2004.
