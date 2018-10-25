@@ -65,7 +65,7 @@ In addition to this online user guide, documentation for MOM is provided by the 
         Available on-line at https://mom-ocean.github.io
 
        
-       * [Elements of mom4p1](/assets/pdfs/MOM4p1_manual.pdf) by Stephen.Griffies@noaa.gov. This is the primary reference for MOM4p1. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p1 in the literature should refer to this document:
+* [Elements of mom4p1](/assets/pdfs/MOM4p1_manual.pdf) by Stephen.Griffies@noaa.gov. This is the primary reference for MOM4p1. It contains details about some of the numerical algorithms and diagnostics. Reference to MOM4p1 in the literature should refer to this document:
 
        
         Elements of mom4p1
