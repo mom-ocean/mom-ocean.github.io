@@ -10,6 +10,8 @@ main:
     url: /docs
   - title: "Contribute"
     url: /contribute
+  - title: "Downloads"
+    url: /downloads
 
 
 # documentation links
