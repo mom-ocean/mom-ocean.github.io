@@ -16,7 +16,7 @@ This document gives a short outline of how to get a very basic example experimen
    
 ## How to get the source code and scripts
 
-You can access the source code by following these [download instructions](http://www.mom-ocean.org/web/downloads)
+You can access the source code by following these [download instructions](http://mom-ocean.github.io/downloads)
       
 In the sections below, `TEST_CASE` is a generic name referring to the name of a specific experiment you are working on. After you clone the repository from github you will have a directory called `mom/` in your working directory, which will be referred to as `$root_dir` in this guide.
    
@@ -62,7 +62,7 @@ To run a `TEST_CASE`
                 
     $ ./MOM_run.csh --platform PLATFORM_ID --type MODEL_TYPE  --experiment TEST_CASE --download_input_data
 
-This will attempt to automatically download the necessary input data for your experiment. The [download instructions](http://www.mom-ocean.org/web/downloads) page has further information about downloading the input data.
+This will attempt to automatically download the necessary input data for your experiment. The [download instructions](http://mom-ocean.github.io/downloads) page has further information about downloading the input data.
 
 ### Notes
 
@@ -79,7 +79,7 @@ This will attempt to automatically download the necessary input data for your ex
 
 ## How to prepare input data
    
-The input data needed to run the selected experiments (tests) that are in this release need to be downloaded into the `data/` directory. This can done automatically or manually, See [download instructions](http://www.mom-ocean.org/web/downloads) for details. 
+The input data needed to run the selected experiments (tests) that are in this release need to be downloaded into the `data/` directory. This can done automatically or manually, See [download instructions](http://mom-ocean.github.io/downloads) for details. 
    
 Note that data in `ASCII/`, `HISTORY/`, `RESTART/` directories are NOT needed for running experiments. They are the outputs of the experiments and are provided for the purpose of comparing your results with results produced at GFDL. Tools are provided so that users can create data from scratch for their own experiments. For more details refer to `src/preprocessing`.
 

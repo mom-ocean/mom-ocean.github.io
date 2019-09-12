@@ -14,7 +14,7 @@ MOM5 uses github 'pull requests' to facilitate code contributions from the commu
 
 ### Step 1: make a github account
 
-Go to [GitHub](https://github.com) and create an account. Github is a website that hosts software using the [git](http://mom-ocean.org/web/docs/git) Version Control System (VCS). It is free to use for public repositories.
+Go to [GitHub](https://github.com) and create an account. Github is a website that hosts software using the [git](https://git-scm.com) Version Control System (VCS). It is free to use for public repositories.
 
 ### Step 2: make an issue to describe your changes
 
@@ -71,4 +71,3 @@ If you have changes that you would like to contribute to MOM5 but are not comfor
 * [GitHub documentation of forking](https://help.github.com/articles/fork-a-repo/)
 * [GitHub documentation on pull requests](https://help.github.com/articles/creating-a-pull-request/)
 * [GitHub documentation on code collaboration](https://help.github.com/categories/collaborating-on-projects-using-issues-and-pull-requests/)
-* [Other git links](http://mom-ocean.org/web/docs/git)

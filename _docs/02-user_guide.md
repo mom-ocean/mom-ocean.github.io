@@ -455,7 +455,7 @@ The complete namelist option description is available in `regrid.html` or the co
 
 ### The runscript
    
-A runscript is provided in each test case directory (`exp/$test_case`) for each test case. Details can be found in [quickstart guide](http://www.mom-ocean.org/web/docs/project/quickstart).
+A runscript is provided in each test case directory (`exp/$test_case`) for each test case. Details can be found in [quickstart guide](https://mom-ocean.github.io/docs/quick-start-guide/).
        
 Incorporated in the FMS infrastructure is MPP (Massively Parallel Processing), which provides a uniform message-passing API interface to the different message-passing libraries. If MPICH is installed, the user can compile the MOM source code with MPI. If the user does not have MPICH or the communications library, the MOM source code can be compiled without MPI by omitting the `CPPFLAGS` value `-Duse_libMPI` in the example runscript.
 
@@ -559,7 +559,7 @@ In climate modeling, it is often necessary to allow water masses that are separa
 
 For some cases, it is necessary to set a large vertical tracer diffusivity at a specified point in the model, say next to a river mouth to ensure fresh water is mixed vertically. These diffusivities are specified in the field table.
    
-For a technical description of cross-land tracer mixing and insertion, please reference [A Technical Guide to MOM4](http://www.mom-ocean.org/web/docs/project/MOM4_guide.pdf).
+For a technical description of cross-land tracer mixing and insertion, please reference [A Technical Guide to MOM4](https://mom-ocean.github.io/assets/pdfs/MOM4_manual.pdf).
 
 ### `mppnccombine`
    
