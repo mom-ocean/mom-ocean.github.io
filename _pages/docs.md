@@ -17,7 +17,7 @@ sidebar:
 - [Test Case: ICCM](/assets/pdfs/testcase_ICCM.pdf)   [PDF]
 - [Test Case: Coupled Ocean](/assets/pdfs/testcase_ocean_cpld.pdf)    [PDF]
 - [Test Case: Solo Ocean](/assets/pdfs/testcase_ocean_solo.pdf)    [PDF]
-- [Running MOM5 with JRA55-do](/assets/pdfs/MOM_JRA55do.pdf)    [PDF]
+- [Running MOM5 with JRA55-do](/assets/pdfs/MOM5_JRA55do.pdf)    [PDF]
 
 
 ## Foundations and History
