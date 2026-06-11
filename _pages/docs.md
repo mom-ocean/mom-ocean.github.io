@@ -25,6 +25,7 @@ sidebar:
  The following documents provide a description of the physical, mathematical, numerical, and computational foundations for the various versions of MOM. There is also a document that gives a detailed account of MOM history. They are provided here partly for their historical relevance, as well as for their pedagogical value.
 
 - [MOM History](/assets/pdfs/mom_history_2017.09.19.pdf)  [PDF]
+- [CM4X Working Notes](/assets/pdfs/CM4X_WorkingNotes.pdf)  [PDF]
 - [ESM2M heat budget](/assets/pdfs/ESM2M_heat_budget.pdf)  [PDF]
 - [CM2-O hierarchy suite](/assets/pdfs/CM2_O_suite_1990_tutorial_and_analysis.pdf)  [PDF]
 - [MOM5 Manual](/assets/pdfs/MOM5_manual.pdf)   [PDF]
